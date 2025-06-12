@@ -27,9 +27,10 @@ A Deep Learning Project that explores **single-label**, using PyTorch. The goal 
 
 # DataSet
 - The DataSet was created by me
-- 700 images in the training set
-- 150 images in the validation set
-- 150 images in the test set
+
+  | Variation     | Training Set Size                             | Validation Set Size | Test Set Size |
+|---------------|-----------------------------------------|----------|--------|
+| ⚪️ Binary-Class  | 700 Images           | 150 Images | 150  Images  | 
 
 # Variations of Model
 
