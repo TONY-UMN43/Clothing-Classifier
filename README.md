@@ -13,7 +13,8 @@ A Deep Learning Project that explores **single-label**, using PyTorch. The goal 
 - Visualized results with **matplotlib** and **confusion matrices**
 - Documented results in **Jupyter Notebook **
   
-# This project scans an image of a pen or pencil and determines which writing utensil is in the image. 
+# Project Description
+This project scans an image of and predicts whether the image contains a shoe or a sock.
 
 # Technology Used
 - Jupyter Notebook
