@@ -9,7 +9,6 @@ A Deep Learning Project that explores **single-label**, using PyTorch. The goal 
 
 # Project Highlights
 - Created and Trained ResNet18 CNN Models using **PyTorch**
-- Uses BCEWithLogitsLoss for the Loss Function
 - Developed pipeline for **binary** classification
 - Visualized results with **matplotlib** and **confusion matrices**
 - Documented results in **Jupyter Notebook **
@@ -44,10 +43,10 @@ This project scans an image and predicts whether the image contains a shoe or a 
 ---
 
 # Model Architecture (Binary)
-- 3 Layer CNN
-- ReLU Activation Functions
-- MaxPooling & Dropout
-- Cross-Entropy Loss Function
+- Pre-Trained ResNet18
+- Froze the CNN Layers
+- Changed Final Classifier layer to 1 neuron
+- BCE-With-Logits-Loss Loss Function
 - Adam Optimizer
 
 # Visualization
