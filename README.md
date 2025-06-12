@@ -5,7 +5,7 @@ This project is for **viewing purposes only**.
 Do not copy, modify, or redistribute any part of this code without explicit permission.  
 © 2025 Tony Akinyemi. All rights reserved.
 
-A Deep Learning Project that explores **single-label**, using PyTorch. The goal was to use my own dataset of Shoes and Socks to train a Convolutional Neural Network Model that can make accurate predictions about any image that contains a Shoe or Sock. 
+A Deep Learning Project that explores **Binary Classification**, using PyTorch. The goal was to use my own dataset of Shoes and Socks to train a Convolutional Neural Network Model that can make accurate predictions about any image that contains a Shoe or Sock. 
 
 # Project Highlights
 - Created and Trained ResNet18 CNN Models using **PyTorch**
