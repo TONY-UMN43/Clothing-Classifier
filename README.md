@@ -22,8 +22,7 @@ A Deep Learning Project that explores **single-label**, **multi-class**, and **m
 - MatPlotLib for Visualization
 
 # Model Files
-🔗 [Download the pretrained model (44 MB)](https://drive.google.com/file/d/1ygnc8mYXh-TJz7SIcNq1telDGZuYrmMh/view?usp=sharing)
-
+🔗 [Download the pretrained model (44 MB)](https://drive.google.com/file/d/126_yqL9Ihc0xheJ7NPoVQx4rIppS64cU/view?usp=sharing)
 
 # Variations of Model
 
