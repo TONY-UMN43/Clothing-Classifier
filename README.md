@@ -14,7 +14,7 @@ A Deep Learning Project that explores **single-label**, using PyTorch. The goal 
 - Documented results in **Jupyter Notebook **
   
 # Project Description
-This project scans an image and predicts whether the image contains a shoe or a sock. 
+This project was developed to demonstrate a real-life application for Binary Classification. At its core, this project uses the CNN Architecture to extract features from images and then uses those features to make predictions on new images that the model hasn't seen before. The Pre-Trained ResNet18 model was used for this Binary Classification task because the ResNet18 is a powerful model that can be used on small datasets to detect key features from a collection of images. Because of this, the model can make predictions with high accuracy and the training stage is quicker than a Custom Pytorch NN Model.
 
 # Technology Used
 - Jupyter Notebook
