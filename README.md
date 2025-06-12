@@ -7,6 +7,8 @@ Do not copy, modify, or redistribute any part of this code without explicit perm
 
 A Deep Learning Project that explores **Binary Classification**, using PyTorch. The goal was to use my own dataset of Shoes and Socks to train a Convolutional Neural Network Model that can make accurate predictions about any image that contains a Shoe or Sock. 
 
+While the initial version of this project only has binary classification between socks and shoes, the broader vision for 'Clothing-Classifier' is to expand it to multi-class classification between pants, shirts, socks, and shoes.
+
 # Project Highlights
 - Created and Trained ResNet18 CNN Models using **PyTorch**
 - Developed pipeline for **binary** classification
