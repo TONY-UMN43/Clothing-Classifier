@@ -9,12 +9,13 @@ A Deep Learning Project that explores **single-label**, using PyTorch. The goal 
 
 # Project Highlights
 - Created and Trained ResNet18 CNN Models using **PyTorch**
+- Uses BCEWithLogitsLoss for the Loss Function
 - Developed pipeline for **binary** classification
 - Visualized results with **matplotlib** and **confusion matrices**
 - Documented results in **Jupyter Notebook **
   
 # Project Description
-This project scans an image of and predicts whether the image contains a shoe or a sock.
+This project scans an image and predicts whether the image contains a shoe or a sock. 
 
 # Technology Used
 - Jupyter Notebook
