@@ -12,7 +12,7 @@ A Deep Learning Project that explores **single-label**, using PyTorch. The goal 
 - Developed pipeline for **binary** classification
 - Visualized results with **matplotlib** and **confusion matrices**
 - Documented results in **Jupyter Notebook **
-- 
+  
 # This project scans an image of a pen or pencil and determines which writing utensil is in the image. 
 
 # Technology Used
@@ -25,7 +25,7 @@ A Deep Learning Project that explores **single-label**, using PyTorch. The goal 
 # Model Files
 🔗 [Download the pretrained model (44 MB)](https://drive.google.com/file/d/126_yqL9Ihc0xheJ7NPoVQx4rIppS64cU/view?usp=sharing)
 
-# [DataSet] 
+# DataSet
 - The DataSet was created by me
 - 700 images in the training set
 - 150 images in the validation set
