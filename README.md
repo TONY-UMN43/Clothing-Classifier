@@ -5,24 +5,31 @@ This project is for **viewing purposes only**.
 Do not copy, modify, or redistribute any part of this code without explicit permission.  
 © 2025 Tony Akinyemi. All rights reserved.
 
-A Deep Learning Project that explores **single-label**, **multi-class**, and **multi-label** using PyTorch. The goal was to use my own dataset of Pens and Pencils to train a Convolutional Neural Network Model that can make accurate predictions about any image that contains a pencil, pen, or both. 
+A Deep Learning Project that explores **single-label**, using PyTorch. The goal was to use my own dataset of Pens and Pencils to train a Convolutional Neural Network Model that can make accurate predictions about any image that contains a pencil, pen, or both. 
 
 # Project Highlights
-- Created and Trained CNN Models using **PyTorch**
+- Created and Trained ResNet18 CNN Models using **PyTorch**
 - Developed pipeline for **binary** classification
 - Visualized results with **matplotlib** and **confusion matrices**
-- Documented results in **Google Collabs**
+- Documented results in **Jupyter Notebook **
 - 
 # This project scans an image of a pen or pencil and determines which writing utensil is in the image. 
 
 # Technology Used
-- GoogleCollabs
-- Python, PyTorch, PyTorchVision, PyTorchUtils,
+- Jupyter Notebook
+- Python, PyTorch, PyTorchVision, PyTorchUtils
+- Pre-Trained ResNet18
 - SkLearnMetrics
 - MatPlotLib for Visualization
 
 # Model Files
 🔗 [Download the pretrained model (44 MB)](https://drive.google.com/file/d/126_yqL9Ihc0xheJ7NPoVQx4rIppS64cU/view?usp=sharing)
+
+# [DataSet] 
+- The DataSet was created by me
+- 700 images in the training set
+- 150 images in the validation set
+- 150 images in the test set
 
 # Variations of Model
 
