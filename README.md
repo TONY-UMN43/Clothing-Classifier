@@ -21,6 +21,10 @@ A Deep Learning Project that explores **single-label**, **multi-class**, and **m
 - SkLearnMetrics
 - MatPlotLib for Visualization
 
+# Model Files
+🔗 [Download the pretrained model (44 MB)](https://drive.google.com/file/d/1ygnc8mYXh-TJz7SIcNq1telDGZuYrmMh/view?usp=sharing)
+
+
 # Variations of Model
 
 | Variation     | Description                             | Training Accuracy | Testing Accuracy | Folder | DataSet |
