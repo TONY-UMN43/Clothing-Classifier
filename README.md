@@ -18,7 +18,7 @@ This project was developed to demonstrate a real-life application for Binary Cla
 
 # Technology Used
 - Jupyter Notebook
-- Python, PyTorch, PyTorchVision, PyTorchUtils
+- Python (3.12), PyTorch, PyTorchVision, PyTorchUtils
 - Pre-Trained ResNet18
 - SkLearnMetrics
 - MatPlotLib for Visualization
