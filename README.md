@@ -37,7 +37,7 @@ This project scans an image and predicts whether the image contains a shoe or a 
 
 | Variation     | Description                             | Training Accuracy | Testing Accuracy | Folder | DataSet |
 |---------------|-----------------------------------------|----------|--------|--------|--------|
-| ⚪️ Binary-Class  | Classify between shoes and socks                 | 98% | 91%    | [`/Binary-Class`](Socks-vs-Shoes-Classifier) |[`Binary-Class-DataSet`](https://drive.google.com/drive/folders/1Ge-QIjMrwEb83_CdX60tHpdv6QvaOkPr?usp=sharing) |
+| ⚪️ Binary-Class  | Classify between shoes and socks                 | 98% | 91%    | [`/Binary-Class`](Socks-vs-Shoes-Classifier) |[`Binary-Class-DataSet`](https://drive.google.com/file/d/1grDEHJwWNAAbU6TtLRKW3iQS_F0DfBns/view?usp=sharing) |
 
 
 ---
